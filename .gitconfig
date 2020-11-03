@@ -1,0 +1,4 @@
+# Stop paging branch.
+[pager]
+   branch = false
+   
